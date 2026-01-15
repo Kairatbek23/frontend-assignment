@@ -1,0 +1,4 @@
+/* Use imports to help linters that don't recognize `@tailwind` at-rules. */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
